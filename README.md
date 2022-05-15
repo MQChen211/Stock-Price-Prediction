@@ -1,7 +1,6 @@
 # CS-135-Final-Project
 
-#Quantum Computing Companies Stock Price Prediction<img width="1383" alt="image" src="https://user-images.githubusercontent.com/95140435/168499244-1427aed2-2554-4a6b-b8ea-a1c1d4b78a62.png">
-
+Quantum Computing Companies Stock Price Prediction
 
 
 Quantum physics has changed our lives. Quantum computing and quantum communication would impact many sectors, including biotechnology, chemistry industry, energy, finance, security, etc. The race is underway. Investments to the quantum research and technology from governments, research institutions, companies all around the world increasing rapidly, and this leads to a rapid growth of the quantum computing market. 
