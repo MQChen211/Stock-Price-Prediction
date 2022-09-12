@@ -1,6 +1,5 @@
-# CS-135-Final-Project
+# CS-135-Final-Project: Quantum Computing Companies Stock Price Prediction
 
-Quantum Computing Companies Stock Price Prediction
 
 Presentation link: https://youtu.be/eall-sjbris
 
