@@ -1,4 +1,4 @@
-# Quantum Computing Companies Stock Price Prediction
+# Quantum Computing Companies Stock Price Prediction (Group Project)
 
 
 Presentation link: https://youtu.be/eall-sjbris
